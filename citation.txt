@@ -1,0 +1,9 @@
+@article{REPO286,
+    author = "Huang, Zhongwei and Lei, Haijun and Chen, Guoliang and Frangi, Alejandro F and Xu, Yanwu and Elazab, Ahmed and Qin, Jing and Lei, Baiying",
+    journal = "IEEE Transactions on Neural Networks and Learning Systems",
+    number = "8",
+    pages = "3357--3371",
+    title = "{Parkinson's Disease Classification and Clinical Score Regression via United Embedding and Sparse Learning from Longitudinal Data}",
+    volume = "33",
+    year = "2021"
+}
