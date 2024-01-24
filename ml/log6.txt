@@ -1,0 +1,19 @@
+
+
+================================
+bestMetric: Acc: 0.813333. Sen: 0.578571. Auc: 0.716485. Spec: 0.914762. fScore: 0.644412
+currentMetric: Acc: 0.813333. Sen: 0.578571. Auc: 0.716485. Spec: 0.914762. fScore: 0.644412
+currentCombiNo: 1 bestCombiNo: 1
+acc_std: 0.052635. fscore_std: 0.123407
+bestCombi: 1000.000000 200.000000 4.000000 0.100000
+currentCombi: 1000.000000 200.000000 4.000000 0.100000
+================================
+
+================================
+bestMetric: Acc: 0.804524. Sen: 0.650000. Auc: 0.737398. Spec: 0.873810. fScore: 0.668658
+currentMetric: Acc: 0.804524. Sen: 0.650000. Auc: 0.737398. Spec: 0.873810. fScore: 0.668658
+currentCombiNo: 1 bestCombiNo: 1
+acc_std: 0.062668. fscore_std: 0.094310
+bestCombi: 10.000000 160.000000 1.000000 1.000000
+currentCombi: 10.000000 160.000000 1.000000 1.000000
+================================
